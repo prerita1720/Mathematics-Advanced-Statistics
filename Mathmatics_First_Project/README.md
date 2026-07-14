@@ -106,4 +106,4 @@ The objective of this repository is to strengthen my mathematical foundations an
 
 ---
 
-### ⭐ Thank you for visiting my Mathematics Portfolio! Feel free to explore my projects and learning journey.
+### ⭐ Thank you for visiting my Mathematics Portfolio! 
