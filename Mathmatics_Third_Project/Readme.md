@@ -76,6 +76,7 @@ Plotted the Probability Density Function and Cumulative Distribution Function of
 - `statsmodels` — Q-Q plots
 
 ---
+video link :- https://drive.google.com/file/d/1QCGzsf_AYbP7nQaj8svd2udWklqICl52/view?usp=sharing
 
 ## ▶️ How to Run
 1. Clone/download this repository.
